@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-    <title>Targi Woyciechowskie 2021 </title>
+    <title>Beet Poland 2021 </title>
     <!-- test rmpgit -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-    <meta name="description" content="Targi Woyciechowskie w Poturzynie, Targi Wojciechowskie, Targi Woyciechowskie, Targi Poturzyn">
+    <meta name="description" content="Kopanie buraka cukrowego w Skołoszowie, ">
 <!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="./dist/css/slick.css">
@@ -30,14 +30,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/1.11.1/simplelightbox.css">
 
    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166457108-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-166457108-2');
-</script>
 
 
 
@@ -53,8 +46,8 @@
             <a href="index.php"><img src="./src/assets/img/logo.png" alt="Logo"></a>
         </div>
         <div class="col-12 col-sm-6 col-lg-auto pt-3 pt-sm-0 d-flex flex-column justify-content-center align-items-center align-content-sm-start">
-            <!-- <h3 class="heading-3"> 4-5 WRZEŚNIA 2021 <br> POTURZYN</h3>
-            <small>Pozostało <b id="counter"></b></small> -->
+            <h3 class="heading-3">24 PAŹDZIERNIKA 2021 <br> SKOŁOSZÓW</h3>
+            <small>Pozostało <b id="counter"></b></small>
         </div>
         <div class="col-12 col-lg pt-3 pt-md-0">
             <div class="row d-flex justify-content-end">
@@ -78,7 +71,7 @@
 <!--                    </select>-->
 <!--                </div>  -->
                 <div class="col-6 col-md-auto d-flex align-items-center">
-                    <a href="https://www.facebook.com/TargiWoyciechowskie" target="_blank" class="icon-circle mr-2"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.facebook.com/" target="_blank" class="icon-circle mr-2"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.youtube.com/channel/UCuCU9C1ozVR60ASLK4T1vjw/featured" target="_blank" class="icon-circle"><i class="fab fa-youtube"></i></a>
                 </div>
             </div>
@@ -112,10 +105,10 @@
         <div class="row">
             <div class="col">
                 <ul>
-                    <li><span>O TARGACH <i class="fa fa-chevron-down ml-3"></i></span>
+                    <li><span>O POKAZACH <i class="fa fa-chevron-down ml-3"></i></span>
                         <ul>
                             <li>
-                                <a href="o-targach.php">O TARGACH</a>
+                                <a href="o-targach.php">O POKAZACH</a>
                             </li>
                             <li>
                                 <a href="galeria.php">GALERIA</a>

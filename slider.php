@@ -6,6 +6,11 @@
                 <div class="slide"><img src="./src/assets/img/slider/2.png" alt="2"></div>
                 <div class="slide"><img src="./src/assets/img/slider/3.png" alt="3"></div>
                 <div class="slide"><img src="./src/assets/img/slider/4.png" alt="4"></div>
+                <div class="slide"><img src="./src/assets/img/slider/5.png" alt="1"></div>
+                <div class="slide"><img src="./src/assets/img/slider/6.png" alt="2"></div>
+                <div class="slide"><img src="./src/assets/img/slider/7.png" alt="3"></div>
+                <div class="slide"><img src="./src/assets/img/slider/8.png" alt="4"></div>
+                
             </div>
         </div>
     </div>

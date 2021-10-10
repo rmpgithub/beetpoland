@@ -1,33 +1,18 @@
 <?php require_once('header.php') ?>
 
-<!-- <div class="dla_firm">Stanisław Sawa - PPHU SAWA-EXPO, NIP 921-133-95-62, przeprasza Polską Izbę Gospodarczą Maszyn i Urządzeń Rolniczych w Toruniu za bezprawne naruszenie jej praw do znaku słowno-graficznego AGRO SHOW i wyraża ubolewanie z tego faktu deklarując nie dokonywanie tego rodzaju naruszeń w przyszłości. <br></div>
- -->
-
 <!-- <div class="container" style="margin-top: 30px;">
     <div class="videoWrapper">
         <iframe  src="https://www.youtube.com/embed/kcm6l62xqo8" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
+
  -->
 
- <div class="dla_firm">Szanowni Państwo,<br><br>
-
-        Szanowni Państwo tegoroczna edycja Targów Woyciechowskich zostaje odwołana. Jednocześnie zapraszamy Państwa na V Agro Targi Wschód, które odbędą się w dniach 4-5 Czerwca 2022r. w Skołoszowie, gmina Radymno, powiat jarosławski, województwo podkaprackie.
-        
-    
-</div>
-<div class="container gallery gallery-index " style="margin-top: 0px;">
-            
-            
-            <div class="row justify-content-md-center">
-                <div class="col-9 "><a href="https://www.agrotargiwschod.pl/"><img class="Thumbnail" src="./src/assets/img/_update/ATW.PNG" alt=""></a></div>    
-            </div>
-            
-</div>
 
 
 
-<?php /*require_once('slider.php')*/ ?>
+
+<?php require_once('slider.php') ?>
 
 
 
@@ -152,7 +137,7 @@
     
 </div>
 
-<div class="patrons-index">
+<!-- <div class="patrons-index">
     
     <div class="assosiates">
         <div class="container" id="patronat">
@@ -192,9 +177,9 @@
 
 
     
-</div>
+</div> -->
 
-<div class="patrons-index">
+<!-- <div class="patrons-index">
     
     <div class="assosiates">
         <div class="container" id="patronat">
@@ -254,7 +239,7 @@
 
     
 </div>
-
+ -->
 
 
 
@@ -289,15 +274,14 @@
         </div>
  </div>    
 
-<div class="container gallery">
+<!-- <div class="container gallery">
 
 
         <div class="row">
             <div class="col-md-offset-1"><a href="./src/assets/pdf/plan/Plan.png"><img class="Thumbnail" src="./src/assets/pdf/plan/Plan.png" alt=""></a></div>
 
         </div>
-
-    </div>
+</div> -->
 
       
 
