@@ -6,7 +6,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-    <meta name="description" content="Kopanie buraka cukrowego w Skołoszowie, ">
+    <meta name="description" content="Pokazy uprawy i zbioru buraka cukrowego">
 <!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="./dist/css/slick.css">
@@ -105,47 +105,6 @@
         </div>
     </div>
 </header>
-
-<!-- <nav class="container-fluid main-nav">
-    <section class="container">
-        <div class="row">
-            <div class="col">
-                <ul>
-                    <li><span>O POKAZACH <i class="fa fa-chevron-down ml-3"></i></span>
-                        <ul>
-                            <li>
-                                <a href="o-targach.php">O POKAZACH</a>
-                            </li>
-                            <li>
-                                <a href="galeria.php">GALERIA</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li><span>DOJAZD <i class="fa fa-chevron-down ml-3"></i></span>
-                        <ul>
-                            <li>
-                                <a href="zgloszenia.php">ZGŁOSZENIE</a>
-                            </li>
-                            <li>
-                                <a href="regulamin.php">REGULAMIN</a>
-                            </li>
-                            <li>
-                                <a href="plan-targow.php">PLAN</a>
-                            </li>
-                                                        <li>
-                                <a href="program.php">PROGRAM</a>
-                            </li>
-                            <li>
-                                <a href="kontakt.php">DOJAZD</a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </section>
-</nav>
- -->
 
 
 

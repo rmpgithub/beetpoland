@@ -19,7 +19,7 @@
 <section class="container info-index">
     <div class="row no-gutters">
         <div class="col-12 col-md-6">
-            <a href="o-targach.php" class="item">
+            <a href="zaproszenie.php" class="item">
                 <div class="thumb mr-0">
                     <?php include('./src/assets/img/_update/ico/zgloszenia.svg') ?>
                 </div>
