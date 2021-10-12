@@ -65,7 +65,7 @@
                    <!-- <small class="mr-3">Język</small> -->
                     <select onchange="location = this.value;" class="form-control form-control-sm my-select" >
                         <option value="">PL</option>
-						<option value="/ua">UA</option> 
+						<!-- <option value="/ua">UA</option>  -->
                         
                     </select>
                 </div>
@@ -106,7 +106,7 @@
     </div>
 </header>
 
-<nav class="container-fluid main-nav">
+<!-- <nav class="container-fluid main-nav">
     <section class="container">
         <div class="row">
             <div class="col">
@@ -121,7 +121,7 @@
                             </li>
                         </ul>
                     </li>
-                    <li><span>DLA WYSTAWCÓW <i class="fa fa-chevron-down ml-3"></i></span>
+                    <li><span>DOJAZD <i class="fa fa-chevron-down ml-3"></i></span>
                         <ul>
                             <li>
                                 <a href="zgloszenia.php">ZGŁOSZENIE</a>
@@ -145,7 +145,7 @@
         </div>
     </section>
 </nav>
-
+ -->
 
 
 

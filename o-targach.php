@@ -5,59 +5,20 @@
 <section class="container about-event-page">
 
 
- <!--    <div class="row mb-5">
-     <div class="col-lg-6 d-flex flex-column align-items-center">
-         <img src="./src/assets/img/1.jpg" alt="img" class="img-fluid w-75">
-         <small class="font-italic">Spotkanie przedstawiciela Agro Targów Wschód z prezydentem DLG. Hannover, listopad 2017</small>
+    <div class="row mb-12">
+     <div class="col-lg-12 d-flex flex-column align-items-center">
+         <img src="./src/assets/img/zaproszenie/Zaproszenie.png" alt="img" class="img-fluid w-75">
+        
      </div>
-     <div class="col-lg-6">
-         <div class="item">
-             <h1 class="heading-1 p-3">Agro Targi Wschód </h1>
- 
-             <p>Agro Targi Wschód to cykliczne wydarzenie, którego celem jest promowanie polskich producentów
-                 żywności, hodowli, maszyn i urządzeń rolniczych. <u>Promowanie Produktu Polskiego- zgodnie ze
-                 stwierdzeniem Pana Jana Krzysztofa Ardanowskiego, Ministra Rolnictwa i Rozwoju Wsi jest najlepiej
-                 rozumianym patriotyzmem gospodarczym</u>. Misją targów jest również promowanie dorobku gospodarczego,
-                 rolniczego i dziedzictwa kulturowego regionu podkarpacia.</p>
- 
-             <p>III Agro Targi Wschód w ubiegłym roku odwiedziło kilkadziesiąt tysięcy osób i wystawiło się ok.150
-                 wystawców. TVP1 przekazywała bezpośrednie relacje na antenę ogólnopolską. Targi były szeroko
-                 reklamowane w różnych mediach.</p>
-         </div>
-     </div>
- 
- </div> -->
-
-    <div class="row pt-5">
-        <!-- <div class="col-lg-6">
-            <p>Dynamiczny rozwój wystawy wynika z jej doskonałej lokalizacji - 20 km od granicy z Ukrainą, przy
-                skrzyżowaniu A4 i DK 77. Autostrada A4 dochodzi do największego przejścia granicznego
-                Korczowa-Krakowiec, skąd do milionowego miasta Lwowa jest już tylko 80 km. Ukraina to czołowy, światowy
-                producent żywności z najlepszymi glebami w skali świata. Elitarne położenie targów, przy tak ogromnym
-                rynku wyróżnia nas od innych i przesądza o ich rozwoju. Na wzór „piłkarskiego Euro 2012” w 2019 roku
-                nawiązaliśmy współpracę z jednym z ważniejszych podmiotów branży rolniczej na Ukrainie, czego efektem
-                była wizyta Wiceministra Rolnictwa Ukrainy Wiktora Szeremety z grupą przedstawicieli tamtejszych
-                organizacji rolniczych i samych rolników. Na bezpośrednich spotkaniach z naszymi ukraińskimi sąsiadami
-                uświadamiamy im, jak wielki potencjał posiada Polska jako producent żywności, maszyn i urządzeń
-                rolniczych.</p>
-        </div>
-        <div class="col-lg-6 d-flex flex-column align-items-center">
-            <img src="./src/assets/img/_update/o-targach2.jpg" alt="img" class="img-fluid">
-            <small class="font-italic">Stanisław Sawa (drugi z lewej) przed ukraińskim wystawcą. Pierwszy z prawej - Wiktor Szeremeta, wiceminister rolnictwa Ukrainy</small>
-        </div> -->
-        <div class="col-12 d-flex justify-content-center mt-5  pb-5">
-            <h3 class="heading-3 w-80 text-center">Targi Woyciechowskie- Innowacje 2020, które odbędą się w dniach 19-20 września 2020 roku w miejscowości Poturzyn, gmina Telatyn, powiat tomaszowski, województwo lubelskie.
-
-<!-- Wydarzenie objęte jest patronatem honorowym Ministra Aktywów Państwowych, Ministra Rolnictwa i Rozwoju Wsi oraz Marszałka Województwa Lubelskiego.
- -->
-Miejscowość w której organizowane są Targi Woyciechowskie położona jest w rejonie hrubieszowsko-tomaszowskich czarnoziemów, najbardziej urodzajnych gleb w Polsce. Jest to rejon intensywnych upraw warzyw i roślin przemysłowych. Wiodącym celem pierwszej edycji Targów Woyciechowski jest promowanie producentów warzyw, produktu polskiego oraz innowacji 2020 (najnowsze rozwiązania w rolnictwie). Teren targów o powierzchni 5ha jest utwardzony płytami betonowymi, obok znajduje się 20ha pól pokazowych na których w ciągu dwóch dni trwania targów odbywać się będą pokazy pracy maszyn.
-
-Imiennik Targów Woyciechowskich Tytus Woyciechowski był promotorem cukrownictwa na Lubelszczyźnie, właścicielem pierwszej cukrowni i wielkim przyjacielem Fryderyka Chopina, który latem 15 lipca 1830 roku przebywał w Poturzynie pozostawiając po sobie ślad w postaci utworów. Targi organizowane są w hołdzie światłemu rolnikowi Tytusowi Woyciechowskiemu.
-
-
-</h3>
-        </div>
     </div>
+    <div class="row mb-12">
+     <div class="col-lg-12 d-flex flex-column align-items-center">
+         <img src="./src/assets/img/zaproszenie/Zaproszenie1.png" alt="img" class="img-fluid w-75">
+        
+     </div>
+    </div>
+
+    
 
 </section>
 

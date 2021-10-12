@@ -18,36 +18,54 @@
 
 <section class="container info-index">
     <div class="row no-gutters">
-        <div class="col-12 col-md-4">
-            <a href="zgloszenia.php" class="item">
+        <div class="col-12 col-md-6">
+            <a href="o-targach.php" class="item">
                 <div class="thumb mr-0">
                     <?php include('./src/assets/img/_update/ico/zgloszenia.svg') ?>
                 </div>
-                Zgłoszenie
+                ZAPROSZENIE
             </a>
         </div>
-        <div class="col-12 col-md-4">
-            <a href="program.php" class="item">
+        <div class="col-12 col-md-6">
+            <a href="kontakt.php" class="item">
                 <div class="thumb">
                     <?php include('./src/assets/img/_update/ico/plan_imprezy.svg') ?>
                 </div>
-                Program
+                DOJAZD
             </a>
         </div>
-        <div class="col-12 col-md-4">
+        <!-- <div class="col-12 col-md-4">
             <a href="plan-targow.php" class="item">
                 <div class="thumb">
                     <?php include('./src/assets/img/_update/ico/lista_wystawcow.svg') ?>
                 </div>
                 Plan Targów
             </a>
-        </div>
+        </div> -->
     </div>
 </section>
 
 
 
+<section class="container about-event-page">
 
+
+    <div class="row mb-12">
+     <div class="col-lg-12 d-flex flex-column align-items-center">
+         <img src="./src/assets/img/zaproszenie/Zaproszenie.png" alt="img" class="img-fluid w-75">
+        
+     </div>
+    </div>
+    <div class="row mb-12">
+     <div class="col-lg-12 d-flex flex-column align-items-center">
+         <img src="./src/assets/img/zaproszenie/Zaproszenie1.png" alt="img" class="img-fluid w-75">
+        
+     </div>
+    </div>
+
+    
+
+</section>
 
 
 
@@ -243,36 +261,7 @@
 
 
 
- <div class="assosiates">
-        <div class="container" id="Partnerzy">
-            <!-- <h3> </h3> -->
-            <div class="row">
-                <div class="aside-small-header">
-                    <h6 class="text-right">Patronat Medialny</h6>
-                    <hr>
-                </div>
-            </div>
-
-
-            <div class="row" >
-
-                <div class="col-xs-12 col-md-3 ">
-                     <img src="src/assets/img/media/tvp3lub.png" alt="">
-                </div>
-                <div class="col-xs-12 col-md-3 ">
-                    <img src="src/assets/img/media/katradiozmsc190.png" alt="">
-
-                </div>
-                <div class="col-xs-12 col-md-3 ">
-                    <img src="src/assets/img/media/tz.png" alt="">
-                </div>
-                <div class="col-xs-12 col-md-3 ">
-                    <img src="src/assets/img/media/bestagri.png" alt="">
-                </div>
-
-             </div>
-        </div>
- </div>    
+  
 
 <!-- <div class="container gallery">
 
