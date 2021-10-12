@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-    <title>Beet Poland 2021 </title>
+    <title>Beet Poland 2021 24 Października 2021 </title>
     <!-- test rmpgit -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
