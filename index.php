@@ -121,158 +121,44 @@
     </div>
 </section>  -->
 
+
+
+
 <div class="patrons-index">
     
     <div class="assosiates">
         <div class="container" id="patronat">
             
-            <div class="row">
-                <div class="aside-small-header">
-                    <h6 class="text-right">Partner Główny - Krajowa Spółka Cukrowa S.A.</h6>
-                    <hr>
-                </div>
-            </div>
+           
            
             <div class="row">
-                 <div class="col-xs-12 col-md-4 ">
+                <div class="col-xs-12 col-md-3 ">
                     <img src="./src/assets/img/sponsorzy/ksc/polskicukier.png" alt="">
-                    
-
-                </div>
-                <div class="col-xs-12 col-md-4 ">
-                    <img  src="./src/assets/img/sponsorzy/ksc/polskieprzetwory.png" alt="">
-                    
-                </div>
-               
-
-
-            </div>
-        </div>
-    </div>
-
-
-
-    
-</div>
-
-<!-- <div class="patrons-index">
-    
-    <div class="assosiates">
-        <div class="container" id="patronat">
-            
-            <div class="row">
-                <div class="aside-small-header">
-                    <h6 class="text-right">Patronat Honorowy</h6>
-                    <hr>
-                </div>
-            </div>
-           
-            <div class="row">
-                <div class="col-xs-12 col-md-4 ">
-                    <img  src="src/assets/img/partnerzy/ministerstwoaktywowpanstwowych.png" alt="MINISTER ROLNICTWA I ROZWOJU WSI">
-                    <p class="partners-caption">Ministerstwo Aktywów Państwowych<br>
+                    <p class="partners-caption">Partner Główny - Krajowa Spółka Cukrowa S.A.<br>
                         </p>
                 </div>
-                <div class="col-xs-12 col-md-4 ">
-                    <img  src="src/assets/img/partnerzy/partner1x.png" alt="MINISTER ROLNICTWA I ROZWOJU WSI">
-                    <p class="partners-caption">Minister Rolnictwa <br>
-                        i Rozwoju Wsi<br>
-                        Jan Krzysztof Ardanowski</p>
+                <div class="col-xs-12 col-md-3 ">
+                    <img src="./src/assets/img/partnerzy/kzpbc.png" alt="">
+                    <p class="partners-caption">Partner Merytoryczny - Krajowy Związek Plantatorów Buraka Cukrowego
                 </div>
-                <div class="col-xs-12 col-md-4 ">
-                    <img src="src/assets/img/partnerzy/marszalek_lubelskiego.png" alt="MARSZAŁEK WOJEWÓDZTWA LUBELSKIEGO">
-                    <p class="partners-caption">Marszałek Województwa <br>
-                        Lubelskiego<br>
-                        Jarosław Stawiarski</p>
+                <div class="col-xs-12 col-md-3 ">
+                    <img src="src/assets/img/partnerzy/pir.png" alt="">
+                    <p class="partners-caption">Partner - Podkarpacka Izba Rolnicza
 
                 </div>
+                <div class="col-xs-12 col-md-3 ">
+                    <img src="src/assets/img/partnerzy/sawaexpo.png" alt="">
+                    <p class="partners-caption">Organizator
+
+                </div>
+            </div>    
 
 
-            </div>
-        </div>
-    </div>
-
-
-
-    
-</div> -->
-
-<!-- <div class="patrons-index">
-    
-    <div class="assosiates">
-        <div class="container" id="patronat">
             
-            <div class="row">
-                <div class="aside-small-header">
-                    <h6 class="text-right">Partner</h6>
-                    <hr>
-                </div>
-            </div>
-           
-            <div class="row">
-                <div class="col-xs-12 col-md-2 ">
-                    <img src="./src/assets/img/partnerzy/kowr120.png" alt="">
-                    
-
-                </div>
-                 <div class="col-xs-12 col-md-2 ">
-                    <img src="./src/assets/img/partnerzy/armir120.png" alt="">
-                    
-
-                </div>
-                <div class="col-xs-12 col-md-2">
-                    <img src="./src/assets/img/partnerzy/krus120.png" alt="">
-                    
-
-                </div>
-                 <div class="col-xs-12 col-md-2 ">
-                    <img src="./src/assets/img/partnerzy/lubelskiesmakujzycie.png" alt="">
-                    
-
-                </div>
-                 <div class="col-xs-12 col-md-2 ">
-                    <img src="./src/assets/img/partnerzy/starostwotomaszowskie.png" alt="">
-                    
-
-                </div>
-                <div class="col-xs-12 col-md-2 ">
-                    <img src="./src/assets/img/partnerzy/telatyn.png" alt="">
-                    
-
-                </div>
-                
-                
-                
-
-                
-                
-               
-
-
-            </div>
         </div>
     </div>
-
-
-
-    
 </div>
- -->
 
-
-
-  
-
-<!-- <div class="container gallery">
-
-
-        <div class="row">
-            <div class="col-md-offset-1"><a href="./src/assets/pdf/plan/Plan.png"><img class="Thumbnail" src="./src/assets/pdf/plan/Plan.png" alt=""></a></div>
-
-        </div>
-</div> -->
-
-      
 
 <?php require_once('footer.php') ?>
 
