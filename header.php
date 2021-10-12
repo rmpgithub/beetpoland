@@ -77,7 +77,7 @@
 <!--                    </select>-->
 <!--                </div>  -->
                 <div class="col-6 col-md-auto d-flex align-items-center">
-                    <a href="https://www.facebook.com/" target="_blank" class="icon-circle mr-2"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.facebook.com/BeetPoland" target="_blank" class="icon-circle mr-2"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.youtube.com/channel/UCuCU9C1ozVR60ASLK4T1vjw/featured" target="_blank" class="icon-circle"><i class="fab fa-youtube"></i></a>
                 </div>
             </div>
