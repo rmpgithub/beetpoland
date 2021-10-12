@@ -30,8 +30,8 @@
             <div class="box-contact" >
                 <p>
                     <b>Biuro Beet Poland</b><br>
-                    Tel. <b>+48 606 418 785</b><br>
                     Tel. <b>+48 604 750 443 </b><br>
+                    Tel. <b>+48 607 088 374 </b><br>
                     <!-- Tel. <b>+48 502 026 753</b><br> -->
                     <b><a href="mailto:biuro@beetpoland.pl"> e-mail: biuro@beetpoland.pl</a></b>
                     <!-- <br><br><b>Marketing</b><br>
