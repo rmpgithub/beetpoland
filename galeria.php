@@ -6,7 +6,7 @@
 
 			<?php
 			$nr = 1;
-			for ($i = 1; $i <= 185/3; $i++) 
+			for ($i = 1; $i <= 192/3; $i++) 
 			{
     			
 		    echo '<div class="row">';

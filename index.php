@@ -18,7 +18,7 @@
 
 <section class="container info-index">
     <div class="row no-gutters">
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-md-4">
             <a href="zaproszenie.php" class="item">
                 <div class="thumb mr-0">
                     <?php include('./src/assets/img/_update/ico/zgloszenia.svg') ?>
@@ -26,7 +26,7 @@
                 ZAPROSZENIE
             </a>
         </div>
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-md-4">
             <a href="kontakt.php" class="item">
                 <div class="thumb">
                     <?php include('./src/assets/img/_update/ico/plan_imprezy.svg') ?>
@@ -34,14 +34,14 @@
                 DOJAZD
             </a>
         </div>
-        <!-- <div class="col-12 col-md-4">
-            <a href="plan-targow.php" class="item">
+         <div class="col-12 col-md-4">
+            <a href="galeria.php" class="item">
                 <div class="thumb">
                     <?php include('./src/assets/img/_update/ico/lista_wystawcow.svg') ?>
                 </div>
-                Plan Targów
+                GALERIA
             </a>
-        </div> -->
+        </div> 
     </div>
 </section>
 
