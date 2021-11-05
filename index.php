@@ -46,7 +46,7 @@
 </section>
 
 <div style="text-align: center;">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/bIPyH446Mfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/Z7mE4YnbU7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <section class="container about-event-page">
